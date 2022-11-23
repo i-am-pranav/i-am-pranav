@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Pranav</h1>
-<h3 align="center">A passionate CyberSecurity & Cyberforensics enthusiast from India from India,</h3>
+<h3 align="center">A passionate CyberSecurity & Cyberforensics enthusiast from India,</h3>
 
 - I’m currently pursuing my **B.tech in Cybersecurity & Cyberforensics Domian**
 
